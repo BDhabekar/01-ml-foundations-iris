@@ -40,7 +40,7 @@ A single stratified holdout split: `test_size=0.2`, `random_state=42`, `stratify
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── 01_eda_and_split.ipynb
+│   └── 01_eda_split_and_baseline.ipynb
 ├── src/
 └── images/
     └── petal_scatter_by_species.png
